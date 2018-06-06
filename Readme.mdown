@@ -1,0 +1,13 @@
+
+
+Requirement:
+>1. python2
+>2. pandas, numpy, lightgbm, feather
+
+Warning: Peak memory consumption might be >60 GB
+
+Please place data in current root folder
+
+please run this script from the root folder: 
+
+sh /run.sh
