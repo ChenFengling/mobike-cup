@@ -1,3 +1,5 @@
+The website of Mobike cup https://biendata.com/competition/mobike/  
+other solutions https://biendata.com/competition/mobike/winners/  
 
 
 Requirement:
@@ -11,3 +13,7 @@ Please place data in current root folder
 please run this script from the root folder: 
 
 sh /run.sh
+
+This is the pipeline of our solution. See pipe.pdf for high resolution figure.
+<div align=center><img width="700" height="700" src="https://github.com/ChenFengling/mobike-cup/blob/master/pipe.png"/></div>
+
